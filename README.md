@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-**VictorKimathi/VictorKimathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**VictorKimathi/VictorKimathi**
 
 - 🔭 I’m currently working on **financeAIAdvisor**
 - 🌱 I’m currently learning **function calling in AI agents**
