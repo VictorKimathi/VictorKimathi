@@ -10,7 +10,7 @@
 - 📫 How to reach me: [victorcodes9532@gmail.com](mailto:victorcodes9532@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have a 6th sense for finding bugs... and then introducing new ones.
-
+you can reach me 254717382028
 ## 🚀 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
