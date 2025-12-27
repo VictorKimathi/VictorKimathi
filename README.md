@@ -41,15 +41,3 @@ Following these steps in the right sequence ensures progress that is both fast a
 
 ---
 
-## 📖 A Story
-
-My team once built an automated system to speed up document approvals.  
-It was state-of-the-art: fast servers, sleek dashboards, even AI-powered suggestions.  
-
-But after launch, approvals still took weeks.  
-Why? The real bottleneck wasn’t speed — it was the fact that *no one actually needed half the approvals in the first place*.  
-
-When we eliminated the redundant sign-offs, the process shrank from 12 steps to 4.  
-Only then did automation truly shine, cutting turnaround time from weeks to hours.  
-
-The lesson: **never automate waste. Simplify first, then accelerate.**
