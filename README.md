@@ -1,43 +1,17 @@
-# Rules of Process
 
-These principles are designed to help me build better systems, products, and solutions.  
-The order matters — skipping ahead usually leads to wasted effort.
+A senior dev at a startup bragged he could solve any problem faster than the **whole team combined**.
 
----
+One day the database crashed. Production was down. Everyone panicked.
 
-## 📜 Core Rules
+The team spent **3 hours** debugging.
 
-1. **Question Every Requirement**  
-   - Ask: *“Why does this requirement exist?”*  
-   - Every requirement should have a clear owner — not just a vague department.  
-   - If it’s not grounded in physics, logic, or legal necessity, it can be challenged.
+The 10x dev? He walked in at hour two, looked at the screen for **4 minutes**, typed one command, and the server came back up.
 
-2. **Delete Before Adding**  
-   - Remove steps, parts, or processes that don’t clearly serve the end goal.  
-   - If you never have to add something back, you’re not deleting enough.  
-   - Complexity grows naturally; reduction requires deliberate effort.
+The room went silent. Jaws dropped.
 
-3. **Simplify and Optimize**  
-   - Don’t optimize what should not exist.  
-   - First remove clutter, then simplify what remains.  
-   - Optimization is valuable only when applied to what’s essential.
+*"How?"* someone asked.
 
-4. **Accelerate Cycle Time**  
-   - Speed up processes only after simplification.  
-   - Faster cycles mean quicker learning and adaptation.  
-   - Be careful: a broken process made faster just fails sooner.
+He shrugged.
 
-5. **Automate Last**  
-   - Automate only after questioning, deleting, simplifying, and accelerating.  
-   - Automating waste locks in inefficiency.  
-   - True efficiency is automation applied to a lean and validated process.
-
----
-
-## 🔑 Why This Matters
-
-Many projects collapse under the weight of unnecessary complexity.  
-Following these steps in the right sequence ensures progress that is both fast and sustainable.
-
----
+> *"I broke it the same way in 2019."*
 
